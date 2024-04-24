@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @venkatagiri3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hello! 👋
 
+## About Me
+- My name is B. VENKATAGIRI.
+- You can find me on GitHub as [@venkatagiri3](https://github.com/venkatagiri3).
+
+## Interests
+- 👀 I’m interested in [finding new solutions to the peoblems].
+
+## Learning
+- 🌱 I’m currently looking deep to learn [artificial intelligence and machine learning].
+
+## Contact Me
+- 📫 You can reach me at [giribattula3@gmail.com].
+- 
 
 ## 🛠️ Technologies and Tools I use:
 
@@ -32,7 +39,7 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatagiri3" alt="github stats" />
  </div>
 
-### Connect with me:
+### Where to Find Me :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//venkatagiri-battula-577a42219/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/venkatagiri_3)

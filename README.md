@@ -1,4 +1,4 @@
-# Hello! 👋
+# Hello! 👋 I am B.VENKATAGIRI
 
 ## About Me
 - My name is B. VENKATAGIRI.
@@ -12,7 +12,6 @@
 
 ## Contact Me
 - 📫 You can reach me at giribattula3@gmail.com.
-- 
 
 ## 🛠️ Technologies and Tools I use:
 

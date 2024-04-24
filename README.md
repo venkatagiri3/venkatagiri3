@@ -1,13 +1,9 @@
 # Hello! 👋 I am B.VENKATAGIRI
-<img align="right" alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fman-programmer-is-working-on-his-laptop-coding-vector-6865464&psig=AOvVaw3K1NbODyWjqq2mc5o3Aflz&ust=1714036526418000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDh6OXB2oUDFQAAAAAdAAAAABAE)" width="500" height="320" />
-
 ## About Me
 - My name is B. VENKATAGIRI.
 - You can find me on GitHub as @venkatagiri3 https://github.com/venkatagiri3.
-
 ## Interests
 - 👀 I’m interested in finding new solutions to the peoblems.
-
 ## Learning
 - 🌱 I’m currently looking deep to learn artificial intelligence and machine learning.
 

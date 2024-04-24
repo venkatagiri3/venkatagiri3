@@ -26,19 +26,16 @@
 
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=krishnateja-81&show_icons=true&theme=radical" alt="github stats" />
-<!-- ![my's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnateja-81&show_icons=true&theme=radical) -->
+ <img src="https://github-readme-stats.vercel.app/api?username=venkatagiri3&show_icons=true&theme=radical" alt="github stats" />
  </div>
  <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnateja-81" alt="github stats" />
-<!-- ![my's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnateja-81&show_icons=true&theme=radical) -->
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatagiri3" alt="github stats" />
  </div>
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=krishnateja-81&) -->
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirvisetti-krishna-teja/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kteja8212)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in//venkatagiri-battula-577a42219/]))
+<!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kteja8212)-->
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />]
 &nbsp;
 [<img src="https://img.shields.io/badge/Fastlane-282C34?logo=fastlane&logoColor=00F200" alt="Fastlane logo" title="Fastlane" height="25" />]

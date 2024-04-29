@@ -3,7 +3,7 @@
 - My name is B. VENKATAGIRI.
 - You can find me on GitHub as @venkatagiri3 https://github.com/venkatagiri3.
 ## Interests
-- 👀 I’m interested in finding new solutions to the peoblems.
+- 👀 I’m interested in finding new solutions to the peoblems.    
 ## Learning 
 - 🌱 I’m currently looking deep to learn artificial intelligence and machine learning.
 
